@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="error">Қате</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="del">Жою</string>
+    <string name="clear">ӨШІРУ</string>
+    <string name="sin">sin</string>
+    <string translate="false" name="sin_mathematical_value">sin</string>
+    <string name="cos">cos</string>
+    <string translate="false" name="cos_mathematical_value">cos</string>
+    <string name="tan">tan</string>
+    <string translate="false" name="tan_mathematical_value">tan</string>
+    <string name="e">e</string>
+    <string translate="false" name="e_mathematical_value">e</string>
+    <string name="ln">ln</string>
+    <string translate="false" name="ln_mathematical_value">ln</string>
+    <string name="lg">log</string>
+    <string translate="false" name="lg_mathematical_value">lg</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="basic">Негізгі тақта</string>
+    <string name="advanced">Кеңейтілген тақта</string>
+    <string name="clear_history">Журналды тазалау</string>
+    <string name="text_copied_toast">Мәтін көшірілді.</string>
+    <string name="leftParenDesc">сол жақ жақша</string>
+    <string name="rightParenDesc">оң жақ жақша</string>
+    <string name="factorialDesc">факториал</string>
+    <string name="lnDesc">натурал логарифм</string>
+    <string name="lgDesc">логарифм</string>
+    <string name="sqrtDesc">квадрат түбір</string>
+    <string name="divDesc">бөлу</string>
+    <string name="mulDesc">көбейту</string>
+    <string name="plusDesc">плюс</string>
+    <string name="minusDesc">минус</string>
+    <string name="dotDesc">бөлшек үтір</string>
+    <string name="powerDesc">Қуат</string>
+    <string name="delDesc">Жою</string>
+    <string name="clearDesc">Тазалау</string>
+    <string name="tanDesc">тангенс</string>
+    <string name="sinDesc">синус</string>
+    <string name="cosDesc">косинус</string>
+    <string name="eDesc">Эйлер саны</string>
+    <string name="piDesc">пи</string>
+    <string name="equalDesc">тең</string>
+    <string-array name="operatorDescs">
+        <item>сол жақ жақша</item>
+        <item>оң жақ жақша</item>
+        <item>факториал</item>
+        <item>натурал логарифм</item>
+        <item>логарифм</item>
+        <item>квадрат түбір</item>
+        <item>бөлу</item>
+        <item>көбейту</item>
+        <item>плюс</item>
+        <item>минус</item>
+        <item>бөлшек үтір</item>
+        <item>Қуат</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>тең</item>
+    </string-array>
+</resources>
